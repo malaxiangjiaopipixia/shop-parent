@@ -1,14 +1,12 @@
+.idea/*
 *.class
 target
 *.iml
 *.idea
 *.pyc
-/.idea
 wechat
-/*/.idea
 /*/target
 /*/__pycache__
-.idea
 /derby.log
 *.classpath
 *.project
@@ -16,3 +14,5 @@ wechat
 /*/*.iml
 node_modules/
 *.log
+./*/target/
+shop-config/target/*
