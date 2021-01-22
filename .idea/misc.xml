@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-product/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-order/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-product/server/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-product/client/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-product/common/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-order/order-server/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-order/order-client/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-order/order-common/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-config/shop-config/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-config/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-user/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
